@@ -8,7 +8,7 @@ interface HeroSettings {
 }
 
 const defaults: HeroSettings = {
-  badge: "LEAFCLUTCH TECHNOLOGIES PVT. LTD.",
+  badge: "LEAFCLUTCH TECHNOLOGIES X RETI INSTITUTE PVT. LTD.",
   title: "Empowering Nepal's Future with Technology & Innovation",
   description:
     "Industry-focused training and internship programs in AI, Web Development, Cybersecurity, UI/UX, and more. Learn from experts, build real projects, and launch your tech career from Bhairahawa, Butwal, or anywhere online.",

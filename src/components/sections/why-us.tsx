@@ -13,7 +13,7 @@ export function WhyUsSection() {
       <div className="container">
         <div className="why-us-top">
           <div className="why-us-header">
-            <span className="section-badge">WHY CHOOSE LEAFCLUTCH</span>
+            <span className="section-badge">WHY CHOOSE US</span>
             <h2 className="section-title">The Best IT Training &amp; Internship in Nepal</h2>
             <p className="section-desc">We combine technical excellence with industry-relevant curriculum to prepare you for a successful career in technology.</p>
           </div>

@@ -58,21 +58,42 @@ export async function Footer() {
                 Empowering innovation through cutting-edge technology solutions,
                 training, and digital transformation services.
               </p>
+
               <div className="footer-contact-info">
-                <a
-                  href={`mailto:${contact.email}`}
-                  className="footer-contact-item"
-                >
+                <div className="footer-contact-item">
                   <i className="fas fa-envelope"></i>
-                  <span>{contact.email}</span>
-                </a>
-                <a
-                  href={`tel:${contact.phone.replace(/[^+\d]/g, "")}`}
-                  className="footer-contact-item"
-                >
+                  <div><a
+                    href={`mailto:${contact.email}`}
+                    className="footer-contact-item">
+                    <span>{contact.email}</span>
+                  </a>
+                    <a
+                      href={"mailto:retiinstitute2011@gmail.com"}
+                      className="footer-contact-item"
+                    >
+                      <span>retiinstitute2011@gmail.com</span>
+                    </a>
+                  </div>
+                </div>
+
+                <div className="footer-contact-item">
                   <i className="fas fa-phone"></i>
-                  <span>{contact.phone}</span>
-                </a>
+                  <div>
+                    <a
+                      href={`tel:${contact.phone.replace(/[^+\d]/g, "")}`}
+                      className="footer-contact-item"
+                    >
+                      <span>{contact.phone}</span>
+                    </a>
+                    <a
+                      href={"tel:+9779857015982"}
+                      className="footer-contact-item"
+                    >
+                      <span>+977-9857015982</span>
+                    </a>
+                  </div>
+                </div>
+
                 <div className="footer-contact-item">
                   <i className="fas fa-map-marker-alt"></i>
                   <span>{contact.location}</span>

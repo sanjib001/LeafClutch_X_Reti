@@ -1613,15 +1613,15 @@ a.footer-contact-item:hover {
   color: #111827;
 }
 .footer-contact-item i {
-  width: 32px;
-  height: 32px;
+  width: 44px;
+  height: 44px;
   border-radius: 8px;
   background: rgba(28,70,200,0.08);
   display: flex;
   align-items: center;
   justify-content: center;
   color: var(--primary);
-  font-size: 13px;
+  font-size: 16px;
   flex-shrink: 0;
 }
 
