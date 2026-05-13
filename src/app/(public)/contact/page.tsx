@@ -45,8 +45,8 @@ export default function ContactPage() {
                     info@leafclutchtech.com.np
                   </a>
                   <br />
-                  <a href="mailto:careers@leafclutchtech.com.np">
-                    careers@leafclutchtech.com.np
+                  <a href="mailto:retiinstitute2011@gmail.com">
+                    retiinstitute2011@gmail.com
                   </a>
                 </div>
               </div>
@@ -75,7 +75,7 @@ export default function ContactPage() {
                   <h4>Call Us</h4>
                   <a href="tel:+9779766715768">+977-9766715768</a>
                   <br />
-                  <a href="tel:+9779766715669">+977-9766715669</a>
+                  <a href="tel:+9779857015982">+977-9857015982</a>
                 </div>
               </div>
             </div>
