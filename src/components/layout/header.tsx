@@ -60,8 +60,8 @@ export function Header() {
       <div className="container header-inner">
         <Link href="/" className="logo">
           <Image
-            src="/logo.png"
-            alt="Leafclutch Technologies"
+            src="/LeafclutchXREti00.png"
+            alt="Leafclutch X Reti "
             width={160}
             height={45}
             className="logo-img"
