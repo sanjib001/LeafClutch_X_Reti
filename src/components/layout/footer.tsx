@@ -47,9 +47,9 @@ export async function Footer() {
             <div className="footer-brand">
               <Link href="/" className="footer-logo">
                 <Image
-                  src="/logo.png"
+                  src="/LeafclutchXReti00.png"
                   alt="Leafclutch Technologies"
-                  width={180}
+                  width={200}
                   height={50}
                   className="footer-logo-img"
                 />
