@@ -132,9 +132,9 @@ export function Header() {
         <div className="mobile-drawer-header">
           <Link href="/" className="logo" onClick={() => setMobileOpen(false)}>
             <Image
-              src="/logo.png"
+              src="/LeafclutchXReti00.png"
               alt="Leafclutch Technologies"
-              width={140}
+              width={200}
               height={40}
               className="logo-img"
             />
