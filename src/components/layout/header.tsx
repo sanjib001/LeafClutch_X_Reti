@@ -60,9 +60,9 @@ export function Header() {
       <div className="container header-inner">
         <Link href="/" className="logo">
           <Image
-            src="/LeafclutchXREti00.png"
+            src="/LeafclutchXReti00.png"
             alt="Leafclutch X Reti "
-            width={160}
+            width={200}
             height={45}
             className="logo-img"
             priority
